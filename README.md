@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rameen Wahid</h1>
-<h3 align="center">Student of Software Engineering 
+<h3 align="center">Student of Software Engineering | Machine Learner
 
 ---
 
 ## 🔭 What I'm Currently Working On
-- Python projects & applications  
+- Machine Learning projects & applications  
 - Prompt Engineering experiments with AI  
 
 ---
